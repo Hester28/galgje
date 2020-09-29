@@ -10,3 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
+Beurt1: E
