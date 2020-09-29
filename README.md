@@ -16,3 +16,4 @@ Beurt3: A
 Beurt4: U
 Beurt5: P
 Beurt6: L
+Beurt7: N
