@@ -11,3 +11,4 @@
 
 ## Beurten
 Beurt1: E
+Beurt2: O
